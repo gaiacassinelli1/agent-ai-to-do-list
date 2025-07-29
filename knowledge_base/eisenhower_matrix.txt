@@ -1,0 +1,12 @@
+
+                Matrice di Eisenhower:
+                Metodo per prioritizzare task basato su urgenza e importanza.
+                
+                Quadranti:
+                1. Urgente + Importante: Fai subito
+                2. Non urgente + Importante: Programma
+                3. Urgente + Non importante: Delega
+                4. Non urgente + Non importante: Elimina
+                
+                Aiuta a concentrarsi su ciò che conta davvero.
+                

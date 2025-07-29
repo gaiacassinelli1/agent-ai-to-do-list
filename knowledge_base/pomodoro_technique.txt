@@ -1,0 +1,11 @@
+
+                Tecnica Pomodoro:
+                1. Scegli un'attività da svolgere
+                2. Imposta un timer per 25 minuti
+                3. Lavora sull'attività fino al suono del timer
+                4. Fai una pausa di 5 minuti
+                5. Ogni 4 pomodori, fai una pausa più lunga (15-30 minuti)
+                
+                Benefici: migliora la concentrazione, riduce la procrastinazione, 
+                aumenta la produttività.
+                
