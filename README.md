@@ -71,8 +71,8 @@ ollama serve
 
 4. **API Configuration**
 ```bash
-# Create .env file in project root
-echo "GOOGLE_API_KEY=your_api_key_here" > .env
+cp .env.example .env
+# Modify .env with your API key
 ```
 
 5. **Start TimeMind**
